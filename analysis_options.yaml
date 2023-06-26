@@ -85,7 +85,6 @@ analyzer:
 dart_code_metrics:
   anti-patterns:
     - long-method
-    - long-parameter-list
   metrics:
     cyclomatic-complexity: 20
     maintainability-index: 50
